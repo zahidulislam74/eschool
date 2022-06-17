@@ -1,0 +1,52 @@
+
+
+
+
+notes
+--------------
+
+e-school......
+
+font family----
+poppins--font-family: 'Poppins', sans-serif;
+roboto---font-family: 'Roboto', sans-serif;
+400
+700
+
+
+color---------
+
+bg-color-background: #F0FFF0;
+black-#000000;
+green-#21B573;
+red-#FD511A;
+
+
+banner---------
+
+xxl/xl/lg				md			sm/col
+
+padding					10/60				
+35/65
+
+h1  xxl-xl-48	lg-40    
+--------------
+
+feature--------
+xxl/xl/lg				md			sm/col
+
+ptb
+
+
+
+
+
+
+
+
+
+
+
+
+
+

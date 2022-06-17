@@ -1,0 +1,274 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.logo{
+	width: 180px;
+}
+.menu ul li a{
+	margin-bottom: 10px;
+	padding: 0 10px !important;
+}
+/*banner*/
+.banner{
+	padding: 10px 0 60px;
+}
+
+.b-content{
+	margin-top: 20px !important;
+	text-align: center;
+}
+.b-h1 {
+	margin: 10px 0 10px;
+    font-size: 25px;
+    line-height: 35px;
+     padding-right: 0px; 
+}
+
+.b-black{
+	line-height: 24px;
+	padding: 0 0px;
+}
+
+.b-img {
+    padding: 0px;
+}
+/*feature start*/
+.feature{
+	padding-bottom: 60px;
+}
+/*courses start*/
+.date ul li img, .seat ul li img{
+	width: 14px;
+}
+.date ul li span, .seat ul li span{
+	font-size: 14px;
+}
+
+.blog_item {
+    padding: 30px 0 60px;
+}
+.blog_text {
+    padding: 15px 0 0;
+    text-align: center;
+}
+.people_img {
+    text-align: center;
+}
+.blog_text p {
+    line-height: 27px;
+}
+/*footer start*/
+footer {
+    padding: 40px 0 40px;
+    line-height: 23px;
+}
+.f_left p {
+    padding: 0 24px 20px;
+}
+.f_right {
+    padding-left: 0px;
+    text-align: center;
+}
+.f_2 {
+    margin-top: 30px;
+}
+.bd {
+    font-size: 17px;
+}
+.p_author {
+    margin-top: 60px;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu ul li a{
+	margin-bottom: 10px;
+	padding: 0 10px !important;
+}
+/*banner*/
+.banner{
+	padding: 10px 0 60px;
+}
+
+.b-content{
+	margin-top: 30px !important;
+	text-align: center;
+}
+.b-h1 {
+	margin: 10px 0 10px;
+    font-size: 25px;
+    line-height: 35px;
+     padding-right: 0px; 
+}
+
+.b-black{
+	line-height: 24px;
+	padding: 0 50px;
+}
+
+.b-img {
+    padding: 0 100px;
+}
+/*feature start*/
+.feature{
+	padding-bottom: 60px;
+}
+/*courses start*/
+.courses{
+	padding-bottom: 60px;
+}
+.c-item{
+	margin-top: 40px;
+	padding: 15px 92px 20px
+}
+.c-item h2{
+	margin: 15px 0 0;
+}
+.c-item a{
+	margin: 15px 0 15px;
+}
+
+/*blog start*/
+.blog_item {
+    padding: 50px 0 60px;
+}
+.blog_text {
+    padding: 15px 25px 0;
+    text-align: center;
+}
+.people_img {
+    text-align: center;
+}
+/*footer start*/
+footer {
+    padding: 40px 0 40px;
+    line-height: 25px;
+}
+.f_left p {
+    padding: 0 40px 40px;
+}
+.f_right{
+    padding-left: 45px;
+}
+.bd {
+    font-size: 17px;
+}
+.p_author {
+    margin-top: 60px;
+}
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a{
+	margin-bottom: 10px;
+	padding: 0 10px !important;
+}
+/*banner*/
+.banner{
+	padding: 10px 0 60px;
+}
+
+.b-content{
+	margin-top: 30px !important;
+	text-align: center;
+}
+.b-h1 {
+	margin: 10px 0 10px;
+    font-size: 35px;
+    line-height: 35px;
+     padding-right: 0px; 
+}
+
+.b-black{
+	line-height: 24px;
+	padding: 0 50px;
+}
+
+.b-img {
+    padding: 0 100px;
+}
+/*feature start*/
+.feature{
+	padding-bottom: 80px;
+}
+/*courses start*/
+.courses{
+	padding-bottom: 80px;
+}
+.c-item{
+	margin-top: 40px;
+	padding: 15px 180px 20px
+}
+
+/*blog start*/
+.blog_item {
+    padding: 50px 0 60px;
+}
+.blog_text {
+    padding: 0;
+}
+/*footer start*/
+footer {
+    padding: 40px 0 40px;
+    line-height: 28px;
+}
+.f_left p {
+    padding: 0 40px 40px;
+}
+.bd {
+    font-size: 17px;
+}
+.p_author {
+    margin-top: 60px;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+.b-h1{
+	padding-right: 20px;
+}
+/*courses start*/
+.c-item{
+	padding: 15px 15px 20px
+}
+.date ul li img, .seat ul li img{
+	width: 14px;
+}
+.date ul li span, .seat ul li span{
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 24px;
+}
+/*blog start*/
+.blog_item {
+    padding: 70px 0 120px;
+}
+.blog_text {
+    padding: 0 0px;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+.b-h1{
+	padding-right: 40px;
+}
+
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
